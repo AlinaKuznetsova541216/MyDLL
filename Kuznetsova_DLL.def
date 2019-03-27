@@ -1,5 +1,8 @@
 LIBRARY Kuznetsova_DLL.dll
 EXPORTS
-	GetInfoStudent
+	GetName
+	GetSurname
+	GetGroup
+	GetStudentID
 	GetSpeciality
 	GetPeriod

@@ -11,11 +11,25 @@
 
 using namespace std;
 
-void __stdcall GetInfoStudent()
+void __stdcall GetName()
+{
+	cout << "Alina ";
+}
+
+void __stdcall GetSurname()
 {
 	cout << "Kuznetsova ";
-	cout << "Alina";
+}
+
+void __stdcall GetGroup()
+{
 	cout << "\nGROUP - RI-541216" << endl;
+}
+
+void __stdcall GetStudentID()
+{
+	cout << "\nStudent ID is 940665455502" << endl;
+
 }
 
 void __stdcall GetSpeciality()
@@ -28,4 +42,6 @@ void __stdcall GetPeriod()
 	cout << "\nThe year of start education is 2014";
 	cout << "\nThe year of end education is 2020" << endl;
 }
+
+
 
