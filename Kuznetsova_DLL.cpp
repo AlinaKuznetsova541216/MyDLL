@@ -21,6 +21,11 @@ void __stdcall GetGroup()
 	cout << "\nGROUP - RI-541216" << endl;
 }
 
+void __stdcall GetStudentID()
+{
+	cout << "\nStudent ID is 940665455502" << endl;
+}
+
 
 
 

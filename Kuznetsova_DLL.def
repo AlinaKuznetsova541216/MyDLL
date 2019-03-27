@@ -2,4 +2,4 @@ LIBRARY Kuznetsova_DLL.dll
 EXPORTS
 	GetName
 	GetGroup
-
+	GetStudentID
