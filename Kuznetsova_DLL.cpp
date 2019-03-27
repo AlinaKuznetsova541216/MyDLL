@@ -13,7 +13,12 @@ using namespace std;
 
 void __stdcall GetName()
 {
-	cout << "Kuznetsova Alina";
+	cout << "Alina ";
+}
+
+void __stdcall GetSurname()
+{
+	cout << "Kuznetsova ";
 }
 
 void __stdcall GetGroup()
