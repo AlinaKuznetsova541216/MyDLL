@@ -16,7 +16,11 @@ void __stdcall GetInfoStudent()
 	cout << "Kuznetsova ";
 	cout << "Alina";
 	cout << "\nGROUP - RI-541216" << endl;
+}
 
+void __stdcall GetSpeciality()
+{
+	cout << "\nInformation Security of TCS";
 }
 
 

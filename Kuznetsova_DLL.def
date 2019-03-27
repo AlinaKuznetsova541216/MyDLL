@@ -1,4 +1,4 @@
 LIBRARY Kuznetsova_DLL.dll
 EXPORTS
 	GetInfoStudent
-
+	GetSpeciality
