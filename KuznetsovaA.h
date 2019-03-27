@@ -5,4 +5,6 @@
 #include <stdio.h>
 #include <windows.h>
 #define DLL_EXPORT extern "C" __declspec(dllexport)
-DLL_EXPORT void __stdcall GetInfoStudent();
+DLL_EXPORT void __stdcall GetName();
+DLL_EXPORT void __stdcall GetGroup();
+

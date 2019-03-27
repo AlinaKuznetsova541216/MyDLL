@@ -11,13 +11,17 @@
 
 using namespace std;
 
-void __stdcall GetInfoStudent()
+void __stdcall GetName()
 {
-	cout << "Kuznetsova ";
-	cout << "Alina";
-	cout << "\nGROUP - RI-541216" << endl;
-
+	cout << "Kuznetsova Alina";
 }
+
+void __stdcall GetGroup()
+{
+	cout << "\nGROUP - RI-541216" << endl;
+}
+
+
 
 
 
