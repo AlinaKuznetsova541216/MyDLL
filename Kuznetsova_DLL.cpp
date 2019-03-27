@@ -20,8 +20,12 @@ void __stdcall GetInfoStudent()
 
 void __stdcall GetSpeciality()
 {
-	cout << "\nInformation Security of TCS";
+	cout << "\nInformation Security of TCS" << endl;
 }
 
-
+void __stdcall GetPeriod()
+{
+	cout << "\nThe year of start education is 2014";
+	cout << "\nThe year of end education is 2020" << endl;
+}
 
